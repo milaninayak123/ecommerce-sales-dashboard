@@ -74,7 +74,7 @@ It provides insights into revenue trends, customer behavior, and geographic perf
 ## 👩‍💻 Author
 **Milani Nayak**  
 
-- 💼 LinkedIn: *[(add link)](https://www.linkedin.com/in/milaninayak/)*  
+- 💼 LinkedIn: *[(linkedinmilaninayak)](https://www.linkedin.com/in/milaninayak/)*  
 - 💻 GitHub: https://github.com/milaninayak123  
 
 ---
