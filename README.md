@@ -1,1 +1,1 @@
-# ecommerce-sales-dashboard
+# E-Commerce Sales Performance Dashboard ## Overview This project is a Power BI dashboard analyzing e-commerce sales performance, focusing on revenue trends, customer behavior, and geographic insights. ## Key Metrics - Total Revenue - Total Customers - Average Customer Revenue ## Visualizations - Monthly Revenue Trend - Revenue by Country - Top Customers by Revenue ## Tools Used - Power BI ## Screenshot ![Dashboard](dashboard.png) ## Author Milani Nayak
