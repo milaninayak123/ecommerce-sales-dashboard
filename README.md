@@ -34,4 +34,3 @@ This project showcases an interactive Power BI dashboard built to analyze e-comm
 
 ---
 
-## 📂 Project Structure
